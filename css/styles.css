@@ -1,0 +1,25 @@
+  body{
+    background-color: #EAF6F6;
+  }
+hr{
+border-style: none;
+border-top-style: dotted;
+border-color: blue;
+border-width: 5px;
+width: 20%;
+}
+img{
+  height: 300px;
+}
+img:hover{
+  height: 350px;
+}
+h1{
+color: #66BFBF;
+}
+h3{
+color: #66BFBF;
+}
+#mytitle{
+  font-size: 60px;
+}
